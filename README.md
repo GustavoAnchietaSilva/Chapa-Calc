@@ -1,4 +1,4 @@
-# 📦 ChapaCalc
+#  ChapaCalc
 
 Sistema desktop desenvolvido em Python para automatizar o cálculo técnico de chapas de papelão utilizadas na fabricação de caixas maleta.
 
@@ -6,7 +6,7 @@ Projeto aplicado em ambiente industrial com foco em padronização de cálculos,
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 ✔ Cálculo automático da largura da chapa  
 ✔ Cálculo do comprimento com acréscimos industriais (aba, composição e refile)  
@@ -19,7 +19,7 @@ Projeto aplicado em ambiente industrial com foco em padronização de cálculos,
 
 ---
 
-## 🏭 Regra de Negócio Implementada
+##  Regra de Negócio Implementada
 
 Entrada padrão:
 
